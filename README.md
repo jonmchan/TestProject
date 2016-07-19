@@ -7,4 +7,4 @@ Recording demos is fun.
 
 Apples are either green or red.
 Oranges are always orange.
-Development projects always end on time.
+Development projects sometimes end on time.
